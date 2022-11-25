@@ -1,2 +1,0 @@
-# DjangoTest
-Test Django App
